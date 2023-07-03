@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mahesh and I am a graduate stedent/researcher.
-- 👀 I’m interested in applied mathematics with a concentration of computational aspect, in particular control theory(focused in invemtory control), differential and meanfield games. Also, I have developed my keen interest toward data science and data analytics.
-- 🌱 I’m currently learning python for data science, numerical methods with matlab other than my other academic work.
-- 💞️ I’m looking to collaborate on project related to population dynamics, numerical ODEs,etc.
+- 👋 Hi, I’m Mahesh and I am a graduate student/researcher.
+- 👀 I’m interested in applied mathematics with a concentration on computational aspects, particularly control theory(focused on inventory control), machine learning, and differential and mean field games. Also, I have developed a keen interest in data science and analytics.
+- 🌱 I’m currently learning Python for data science, and numerical methods with Matlab other than my other academic work.
+- 💞️ I’m looking to collaborate on a project related to control theory, machine learning, data science, numerical solutions to ODEs, etc.
 - 📫 How to reach me: work email: mkr200000@utdallas.edu
 
 <!---
